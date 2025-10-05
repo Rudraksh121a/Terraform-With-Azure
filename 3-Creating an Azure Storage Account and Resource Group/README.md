@@ -4,7 +4,7 @@ In this lesson, you'll learn how to create an Azure Resource Group and Storage A
 
 ---
 
-![Azure Storage Account]([https://docs.microsoft.com/en-us/azure/storage/common/media/storage-account-overview/Image.png](https://github.com/Rudraksh121a/Terraform-With-Azure/blob/main/3-Creating%20an%20Azure%20Storage%20Account%20and%20Resource%20Group/Image.png))
+![Azure Storage Account](https://github.com/Rudraksh121a/Terraform-With-Azure/blob/main/3-Creating%20an%20Azure%20Storage%20Account%20and%20Resource%20Group/Image.png)
 
 ## Objectives
 
