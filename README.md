@@ -7,4 +7,4 @@
 | 3   | Creating an Azure Storage Account and Resource Group using Terraform    | [View Notes](https://github.com/Rudraksh121a/Terraform-With-Azure/blob/main/3-Creating%20an%20Azure%20Storage%20Account%20and%20Resource%20Group/README.md) |
 | 4   | Terraform State File                                                      | [View Notes](https://github.com/Rudraksh121a/Terraform-With-Azure/blob/main/4-Terraform%20State%20File/README.md) |
 
-| 5   | Terraform variables                                                      | [View Notes](https://github.com/Rudraksh121a/Terraform-With-Azure/blob/main/5-Terraform%20Variables/README.md) |
+| 5   | Terraform variables                                                      | [View Notes](https://github.com/Rudraksh121a/Terraform-With-Azure/blob/main/5-Terraform%20variables/README.md) |
