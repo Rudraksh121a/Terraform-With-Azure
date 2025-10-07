@@ -1,5 +1,7 @@
-# Terraform State File – Key Concepts
+# Terraform State File 
 
+
+![Terraform State File Overview](https://github.com/Rudraksh121a/Terraform-With-Azure/blob/main/image.png)
 ## 1. What is a Terraform State File?
 
 Terraform uses a **state file** to map your configuration (desired state) to the real infrastructure (actual state).
